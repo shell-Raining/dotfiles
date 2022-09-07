@@ -39,3 +39,8 @@ luac.out
 *.x86_64
 *.hex
 
+tmux/plugins
+.DS_Store
+.luarc.json
+start.sh
+
