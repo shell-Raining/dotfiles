@@ -44,3 +44,6 @@ tmux/plugins
 .luarc.json
 start.sh
 
+
+fmtconf/clang-format
+fmtconf/prettierrc.json

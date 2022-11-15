@@ -1,0 +1,11 @@
+[user]
+	email = shellRaining@gmail.com
+	name = shell-Raining
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	fe = fetch
+[push]
+	autoSetupRemote = true
